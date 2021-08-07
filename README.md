@@ -13,6 +13,7 @@ Questions are as follows
 - class_2
 - class_3
 - diamond
+- exception_cal
 - inherit_1
 - missing
 - pattern_1
