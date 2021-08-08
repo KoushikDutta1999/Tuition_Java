@@ -5,6 +5,7 @@ Questions are as follows
 - addtwo
 - armstrong
 - array_1
+- array_2D
 - array_fibonacci
 - array_max_min
 - array_odd_possition
@@ -23,5 +24,6 @@ Questions are as follows
 - pattern_half
 - piramid
 - reverse
+- stringbuffer
 - switch_cal
 - till_n
